@@ -1,0 +1,7 @@
+﻿  classes.cpp
+D:\oop project ticketing app\TicketingApp\Project1\classes.cpp(10,15): error C2589: ':': illegal token on right side of '::'
+D:\oop project ticketing app\TicketingApp\Project1\classes.cpp(10): error C2062: type 'unknown-type' unexpected
+D:\oop project ticketing app\TicketingApp\Project1\classes.cpp(10,26): error C2143: syntax error: missing ';' before '{'
+D:\oop project ticketing app\TicketingApp\Project1\classes.cpp(10,26): error C2447: '{': missing function header (old-style formal list?)
+  main.cpp
+  Generating Code...
